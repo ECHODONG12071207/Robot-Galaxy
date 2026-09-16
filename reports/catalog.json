@@ -1,0 +1,1460 @@
+{
+  "companies": [
+    "宇树",
+    "智平方",
+    "小米",
+    "华为",
+    "Figure AI",
+    "特斯拉",
+    "智元",
+    "小鹏",
+    "优必选",
+    "波士顿动力",
+    "星动纪元",
+    "逐际动力",
+    "自变量",
+    "银河通用",
+    "绿的谐波",
+    "三花智控",
+    "拓普集团",
+    "兆威机电",
+    "鸣志电器",
+    "德昌电机",
+    "汉威科技",
+    "灵心巧手",
+    "汇川技术",
+    "奥比中光",
+    "恒立液压",
+    "傅利叶",
+    "乐聚",
+    "英伟达",
+    "专家访谈"
+  ],
+  "records": [
+    {
+      "id": "r-26ff624511ed",
+      "filename": "民生证券 -人形机器人+FigureAI.pdf",
+      "originalPaths": [
+        "Figure AI/民生证券 -人形机器人+FigureAI.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1893788,
+      "file": "reports/files/r-26ff624511ed.pdf",
+      "pages": 23,
+      "title": "具身智能时代各本体公司最新进展",
+      "institution": "民生证券",
+      "date": "2025-03-24",
+      "categories": [
+        "人形",
+        "四足",
+        "AI",
+        "算法"
+      ],
+      "summary": "梳理宇树、Figure AI、银河通用、星动纪元、小米和小鹏的产品与技术进展，重点介绍 Helix、GraspVLA 等模型及本体企业的制造与供应链布局。",
+      "companies": [
+        "宇树",
+        "小米",
+        "Figure AI",
+        "小鹏",
+        "星动纪元",
+        "银河通用",
+        "汉威科技",
+        "恒立液压"
+      ],
+      "collections": [
+        "Figure AI"
+      ],
+      "cover": "reports/covers/r-26ff624511ed.png"
+    },
+    {
+      "id": "r-687c6019be78",
+      "filename": "figure AI.url",
+      "originalPaths": [
+        "Figure AI/figure AI.url"
+      ],
+      "format": "URL",
+      "bytes": 113,
+      "url": "https://www.feishu.cn/base/MhGGbPSUnagRQtso7mfcpccunkt",
+      "title": "figure AI",
+      "institution": "出具机构未注明",
+      "date": null,
+      "categories": [
+        "人形"
+      ],
+      "summary": "原归档中的资料链接，尚未导入正文。点击可前往原资料，可能需要登录或访问权限。",
+      "companies": [],
+      "collections": [
+        "Figure AI"
+      ]
+    },
+    {
+      "id": "r-2d9f63fc8af8",
+      "filename": "开源证券 -人形机器人+FigureAI-2.pdf",
+      "originalPaths": [
+        "Figure AI/开源证券 -人形机器人+FigureAI-2.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 3717273,
+      "file": "reports/files/r-2d9f63fc8af8.pdf",
+      "pages": 41,
+      "title": "人形机器人的2026：“1—10”时刻开启",
+      "institution": "开源证券",
+      "date": "2025-11-04",
+      "categories": [
+        "人形",
+        "零部件"
+      ],
+      "summary": "围绕2026年人形机器人产业策略，梳理特斯拉 V3 的量产时间线、核心技术迭代，以及国内整机企业的资本化和生态链建设。",
+      "companies": [
+        "宇树",
+        "智平方",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "星动纪元",
+        "自变量",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "灵心巧手",
+        "恒立液压",
+        "傅利叶",
+        "乐聚",
+        "英伟达"
+      ],
+      "collections": [
+        "Figure AI"
+      ],
+      "cover": "reports/covers/r-2d9f63fc8af8.png"
+    },
+    {
+      "id": "r-bc695a75c420",
+      "filename": "东吴证券 -人形机器人+FigureAI-2.pdf",
+      "originalPaths": [
+        "Figure AI/东吴证券 -人形机器人+FigureAI-2.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2279947,
+      "file": "reports/files/r-bc695a75c420.pdf",
+      "pages": 28,
+      "title": "人形机器人2026年度策略：重视规模化量产元年",
+      "institution": "东吴证券",
+      "date": "2026-02-12",
+      "categories": [
+        "人形",
+        "灵巧手",
+        "AI",
+        "零部件"
+      ],
+      "summary": "以降本、量产和智能化为主线，回顾行业变化。报告区分供应链量产确定性与技术创新两类研究方向，讨论灵巧手、电机、电子皮肤和轻量化材料。",
+      "companies": [
+        "宇树",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "德昌电机",
+        "汉威科技",
+        "灵心巧手",
+        "奥比中光",
+        "恒立液压",
+        "乐聚"
+      ],
+      "collections": [
+        "Figure AI"
+      ],
+      "cover": "reports/covers/r-bc695a75c420.png"
+    },
+    {
+      "id": "r-0b351b0b2304",
+      "filename": "开源证券 -人形机器人+FigureAI.pdf",
+      "originalPaths": [
+        "Figure AI/开源证券 -人形机器人+FigureAI.pdf",
+        "智元/开源证券 -人形机器人+智元.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1816998,
+      "file": "reports/files/r-0b351b0b2304.pdf",
+      "pages": 13,
+      "title": "技术进化的2025，走向量产的2026：人形机器人“黄金十年”启幕",
+      "institution": "开源证券",
+      "date": "2025-12-29",
+      "categories": [
+        "人形",
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "回顾人形机器人从技术验证走向规模制造的进程，讨论核心零部件技术收敛、量产订单、供应链产能与国内本体企业发展。报告中的时间线为发布时的判断。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "银河通用",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "恒立液压",
+        "乐聚"
+      ],
+      "collections": [
+        "Figure AI",
+        "智元"
+      ],
+      "cover": "reports/covers/r-0b351b0b2304.png"
+    },
+    {
+      "id": "r-238a762b594c",
+      "filename": "东吴证券 -人形机器人+FigureAI-3.pdf",
+      "originalPaths": [
+        "Figure AI/东吴证券 -人形机器人+FigureAI-3.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 8312797,
+      "file": "reports/files/r-238a762b594c.pdf",
+      "pages": 54,
+      "title": "人形机器人量产渐进：多链条各环节研究合集",
+      "institution": "东吴证券",
+      "date": "2025-01-28",
+      "categories": [
+        "人形",
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "从本体、减速器、灵巧手、丝杠及加工设备等环节拆解机器人产业链，比较国内外企业布局。上传文件为54页合集，日期按首篇报告展示。",
+      "note": "原文件包含多篇内容，标题和日期以首篇为基础整理。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "绿的谐波",
+        "兆威机电",
+        "恒立液压",
+        "傅利叶"
+      ],
+      "collections": [
+        "Figure AI"
+      ],
+      "cover": "reports/covers/r-238a762b594c.png"
+    },
+    {
+      "id": "r-748c74835625",
+      "filename": "【西南证券】机器人行业周报：机器人本体企业加速上市，波士顿动力发布新一代Atlas【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "波士顿动力/【西南证券】机器人行业周报：机器人本体企业加速上市，波士顿动力发布新一代Atlas【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1642126,
+      "file": "reports/files/r-748c74835625.pdf",
+      "pages": 11,
+      "title": "机器人本体企业加速上市，波士顿动力发布新一代 Atlas",
+      "institution": "西南证券",
+      "date": "2026-01-11",
+      "categories": [
+        "人形",
+        "AI",
+        "数据"
+      ],
+      "summary": "跟踪 CES 2026 机器人展品、新一代 Atlas 的部署规划、智元仿真平台与行业资本动态，并梳理机器人本体及供应链企业的阶段进展。",
+      "companies": [
+        "宇树",
+        "Figure AI",
+        "智元",
+        "优必选",
+        "波士顿动力",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "汇川技术",
+        "恒立液压"
+      ],
+      "collections": [
+        "波士顿动力"
+      ],
+      "cover": "reports/covers/r-748c74835625.png"
+    },
+    {
+      "id": "r-786628e031db",
+      "filename": "浙商证券 - 小米.pdf",
+      "originalPaths": [
+        "小米/浙商证券 - 小米.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2418728,
+      "file": "reports/files/r-786628e031db.pdf",
+      "pages": 28,
+      "title": "从 CyberOne 看人形机器人行业发展",
+      "institution": "浙商证券",
+      "date": "2022-08-24",
+      "categories": [
+        "人形",
+        "AI",
+        "算法",
+        "零部件"
+      ],
+      "summary": "以小米 CyberOne 为案例，拆解环境感知、运动控制与人机交互三大技术模块，并梳理核心零部件、机器视觉、AI软件及整机产业链。",
+      "companies": [
+        "小米",
+        "华为",
+        "特斯拉",
+        "波士顿动力",
+        "绿的谐波",
+        "汇川技术"
+      ],
+      "collections": [
+        "小米"
+      ],
+      "cover": "reports/covers/r-786628e031db.png"
+    },
+    {
+      "id": "r-7829790a2b1e",
+      "filename": "小米.url",
+      "originalPaths": [
+        "小米/小米.url"
+      ],
+      "format": "URL",
+      "bytes": 113,
+      "url": "https://www.feishu.cn/base/GBPgbHqJbak7O6sXhyycqnJznqh",
+      "title": "小米",
+      "institution": "出具机构未注明",
+      "date": null,
+      "categories": [
+        "人形"
+      ],
+      "summary": "原归档中的资料链接，尚未导入正文。点击可前往原资料，可能需要登录或访问权限。",
+      "companies": [],
+      "collections": [
+        "小米"
+      ]
+    },
+    {
+      "id": "r-865aaf464e7f",
+      "filename": "【西南证券】小鹏发布新一代机器人IRON，机器人产业再迎重磅催化【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "小鹏/【西南证券】小鹏发布新一代机器人IRON，机器人产业再迎重磅催化【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2661768,
+      "file": "reports/files/r-865aaf464e7f.pdf",
+      "pages": 19,
+      "title": "小鹏发布新一代机器人 IRON，机器人产业再迎催化",
+      "institution": "西南证券",
+      "date": "2025-11-09",
+      "categories": [
+        "人形",
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "汽车行业周报中的机器人专题，介绍小鹏 IRON 的仿人结构、柔性皮肤及量产规划，并结合智能汽车与零部件产业讨论技术协同。",
+      "companies": [
+        "小米",
+        "特斯拉",
+        "小鹏",
+        "优必选",
+        "三花智控",
+        "拓普集团",
+        "英伟达"
+      ],
+      "collections": [
+        "小鹏"
+      ],
+      "cover": "reports/covers/r-865aaf464e7f.png"
+    },
+    {
+      "id": "r-f3fd0fe8ded4",
+      "filename": "【太平洋证券】小鹏发布新一代机器人IRON，关注产业链相关标的（20251103-20251109）【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "小鹏/【太平洋证券】小鹏发布新一代机器人IRON，关注产业链相关标的（20251103-20251109）【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 566256,
+      "file": "reports/files/r-f3fd0fe8ded4.pdf",
+      "pages": 13,
+      "title": "小鹏发布新一代机器人 IRON，关注产业链相关标的",
+      "institution": "太平洋证券",
+      "date": "2025-11-09",
+      "categories": [
+        "人形",
+        "灵巧手",
+        "AI",
+        "数据"
+      ],
+      "summary": "解析 IRON 的自由度、仿生结构、图灵芯片与具身模型，介绍数据工厂及导览、导购、巡检等商业场景规划。",
+      "companies": [
+        "Figure AI",
+        "特斯拉",
+        "小鹏",
+        "英伟达"
+      ],
+      "collections": [
+        "小鹏"
+      ],
+      "cover": "reports/covers/r-f3fd0fe8ded4.png"
+    },
+    {
+      "id": "r-24e75ddc85fa",
+      "filename": "优必选如何定义人形机器人的“中国范式”_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/优必选如何定义人形机器人的“中国范式”_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1504250,
+      "file": "reports/files/r-24e75ddc85fa.pdf",
+      "pages": 21,
+      "title": "优必选如何定义人形机器人的“中国范式”",
+      "institution": "财通证券",
+      "date": "2025-10-13",
+      "categories": [
+        "人形",
+        "AI",
+        "数据",
+        "零部件"
+      ],
+      "summary": "从场景复制、成本下降和数据循环三个角度研究优必选，梳理 Walker 产品矩阵、工厂实训、自研零部件和多机器人协同能力。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-24e75ddc85fa.png"
+    },
+    {
+      "id": "r-492af16f27af",
+      "filename": "【华金证券】汽车行业周报：人形机器人行业双周报（1110-1123）：宇树科技完成上市辅导，特斯拉灵巧手自由度大幅升级【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/【华金证券】汽车行业周报：人形机器人行业双周报（1110-1123）：宇树科技完成上市辅导，特斯拉灵巧手自由度大幅升级【洞见研报DJyanbao.com】.pdf",
+        "行业研究及研报/人形机器人行业/【华金证券】汽车行业周报：人形机器人行业双周报（1110-1123）：宇树科技完成上市辅导，特斯拉灵巧手自由度大幅升级【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 3154345,
+      "file": "reports/files/r-492af16f27af.pdf",
+      "pages": 22,
+      "title": "宇树完成上市辅导，特斯拉灵巧手自由度升级",
+      "institution": "华金证券",
+      "date": "2025-11-24",
+      "categories": [
+        "人形",
+        "轮式",
+        "复合",
+        "灵巧手",
+        "数据"
+      ],
+      "summary": "跟踪宇树上市辅导、轮式双臂 G1-D 数采方案及特斯拉灵巧手升级，并比较不同机器人形态的部署特点与产业链关联。",
+      "companies": [
+        "宇树",
+        "小米",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "奥比中光",
+        "傅利叶",
+        "乐聚",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-492af16f27af.png"
+    },
+    {
+      "id": "r-b6bcbaf2638c",
+      "filename": "2025人形机器人行业白皮书：躯体觉醒：叩响具身智能纪元奇点_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/2025人形机器人行业白皮书：躯体觉醒：叩响具身智能纪元奇点_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/人形机器人行业/2025人形机器人行业白皮书：躯体觉醒：叩响具身智能纪元奇点_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 10813931,
+      "file": "reports/files/r-b6bcbaf2638c.pdf",
+      "pages": 54,
+      "title": "2025人形机器人行业白皮书：躯体觉醒，叩响具身智能纪元奇点",
+      "institution": "幸福招商行业研究院",
+      "date": null,
+      "period": "2025",
+      "categories": [
+        "人形",
+        "AI",
+        "零部件"
+      ],
+      "summary": "覆盖具身智能概念、产业生态、政策区域布局、投融资与招商，结合技术体系和企业案例，梳理从本体创新到核心部件突破的产业全景。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "银河通用",
+        "绿的谐波",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "灵心巧手",
+        "汇川技术",
+        "恒立液压",
+        "傅利叶",
+        "乐聚",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-b6bcbaf2638c.png"
+    },
+    {
+      "id": "r-cb14460af723",
+      "filename": "荣续智库_包装行业ESG白皮书_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/荣续智库_包装行业ESG白皮书_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/人形机器人行业/荣续智库_包装行业ESG白皮书_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 4124100,
+      "file": "reports/files/r-cb14460af723.pdf",
+      "pages": 35,
+      "title": "人形机器人：千帆竞发，顺势而为",
+      "institution": "长江证券",
+      "date": "2026-04-13",
+      "categories": [
+        "人形",
+        "灵巧手",
+        "AI",
+        "数据",
+        "零部件"
+      ],
+      "summary": "比较特斯拉供应链与国内“本体＋应用”两条产业路径，关注量产能力、真实场景验证、数据训练及灵巧手、电子皮肤等技术变化。",
+      "note": "已按报告正文校正标题；原下载文件名误标为“包装行业ESG白皮书”。",
+      "companies": [
+        "宇树",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "恒立液压",
+        "乐聚"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-cb14460af723.png"
+    },
+    {
+      "id": "r-de3966c663f6",
+      "filename": "人形机器人行业深度报告：产业催化频现，宇树智远双星闪耀_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/人形机器人行业深度报告：产业催化频现，宇树智远双星闪耀_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/人形机器人行业/人形机器人行业深度报告：产业催化频现，宇树智远双星闪耀_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 972181,
+      "file": "reports/files/r-de3966c663f6.pdf",
+      "pages": 27,
+      "title": "人形机器人产业催化频现，宇树智远双星闪耀",
+      "institution": "恒泰证券",
+      "date": "2025-08-26",
+      "categories": [
+        "人形",
+        "四足",
+        "零部件"
+      ],
+      "summary": "围绕订单、融资与行业活动梳理产业进展，比较宇树和智元的技术及生态路线，并拆解关节执行器、电机、减速器和传感器等关键环节。",
+      "note": "标题保留原报告“智远”用字；正文研究对象包括智元机器人。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "星动纪元",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "汇川技术",
+        "奥比中光",
+        "恒立液压",
+        "傅利叶"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-de3966c663f6.png"
+    },
+    {
+      "id": "r-e916b4133472",
+      "filename": "2025年人形机器人市场研究报告_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/2025年人形机器人市场研究报告_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/人形机器人行业/2025年人形机器人市场研究报告_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 7600339,
+      "file": "reports/files/r-e916b4133472.pdf",
+      "pages": 43,
+      "title": "2025年人形机器人市场研究报告",
+      "institution": "赛迪传媒 · 中国电子报",
+      "date": null,
+      "period": "2025",
+      "categories": [
+        "人形",
+        "零部件",
+        "AI"
+      ],
+      "summary": "分析全球及中国人形机器人产业、市场出货与典型企业，梳理技术突破、应用场景和产业趋势，并讨论数据共享、人才培养及机器人服务化模式。",
+      "note": "报告期为2025年，文件未明确标示发布日期。同名下载版本合并展示，原文件均保留。",
+      "companies": [
+        "宇树",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "逐际动力",
+        "自变量",
+        "绿的谐波",
+        "拓普集团",
+        "傅利叶",
+        "乐聚",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-e916b4133472.png"
+    },
+    {
+      "id": "r-783e05922e91",
+      "filename": "人形机器人本体研究（一）：宇树科技：运控算法-硬件能力强大，开启上市辅导加速 IPO_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/人形机器人本体研究（一）：宇树科技：运控算法-硬件能力强大，开启上市辅导加速 IPO_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1775901,
+      "file": "reports/files/r-783e05922e91.pdf",
+      "pages": 12,
+      "title": "宇树科技：运控算法与硬件能力研究",
+      "institution": "国泰海通",
+      "date": "2025-07-20",
+      "categories": [
+        "人形",
+        "四足",
+        "算法",
+        "零部件"
+      ],
+      "summary": "梳理宇树从四足向人形拓展的产品路径，介绍运动控制、机器人仿真、感知与自研零部件，并讨论融资及上市辅导带来的产业链协同。",
+      "companies": [
+        "宇树",
+        "智元",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-783e05922e91.png"
+    },
+    {
+      "id": "r-09692e41467a",
+      "filename": "人形机器人行业跟踪报告：宇树科技人形机器人2025年出货量和市场占比均居全球第一_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/人形机器人行业跟踪报告：宇树科技人形机器人2025年出货量和市场占比均居全球第一_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 921930,
+      "file": "reports/files/r-09692e41467a.pdf",
+      "pages": 8,
+      "title": "宇树科技人形机器人2025年出货量和市场占比均居全球第一",
+      "institution": "万联证券",
+      "date": "2026-03-17",
+      "categories": [
+        "人形",
+        "AI"
+      ],
+      "summary": "结合市场研究报告跟踪人形机器人出货格局，并收录海尔家庭机器人等产业动态。出货量与市场份额对应报告采用的统计口径。",
+      "companies": [
+        "宇树",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "星动纪元",
+        "逐际动力",
+        "傅利叶",
+        "乐聚"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-09692e41467a.png"
+    },
+    {
+      "id": "r-3b80a9069e77",
+      "filename": "ct_bom_framework_v0_5_compatible.pptx",
+      "originalPaths": [
+        "行业研究及研报/ct_bom_framework_v0_5_compatible.pptx"
+      ],
+      "format": "PPTX",
+      "bytes": 76045,
+      "file": "reports/files/r-3b80a9069e77.pptx",
+      "pages": 13,
+      "title": "人形机器人 CT-BOM 框架 v0.5",
+      "institution": "出具机构未注明",
+      "date": null,
+      "categories": [
+        "人形",
+        "零部件",
+        "灵巧手"
+      ],
+      "summary": "建立从 L0 整机到 L5 子部件的工程研究框架，覆盖感知、决策控制、执行、本体、能源与系统集成六大系统，并以旋转关节和灵巧手说明拆解方法。",
+      "type": "研究框架",
+      "companies": [
+        "Figure AI"
+      ],
+      "collections": []
+    },
+    {
+      "id": "r-eac3abe4ffab",
+      "filename": "特斯拉人形机器人的技术突破解读_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/特斯拉人形机器人的技术突破解读_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/人形机器人行业/特斯拉人形机器人的技术突破解读_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 843547,
+      "file": "reports/files/r-eac3abe4ffab.pdf",
+      "pages": 16,
+      "title": "特斯拉人形机器人的技术突破解读",
+      "institution": "出具机构待确认",
+      "date": "2025-12-09",
+      "categories": [
+        "人形",
+        "算法",
+        "零部件"
+      ],
+      "summary": "按技术历程、核心方案、竞争者与专利等主题介绍特斯拉人形机器人，兼顾人机交互、安全性和伦理监管。文件未明确标注正式出具机构。",
+      "companies": [
+        "特斯拉",
+        "优必选",
+        "波士顿动力"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-eac3abe4ffab.png"
+    },
+    {
+      "id": "r-0b66d94ed992",
+      "filename": "人形机器人系列报告五：灵巧手：核心终端，机器人融入物理世界的接口_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/人形机器人系列报告五：灵巧手：核心终端，机器人融入物理世界的接口_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/灵巧手行业/人形机器人系列报告五：灵巧手：核心终端，机器人融入物理世界的接口_【发现报告 fxbaogao.com】.pdf",
+        "行业研究及研报/灵巧手行业/人形机器人系列报告五：灵巧手：核心终端，机器人融入物理世界的接口_【发现报告 fxbaogao.com】(1).pdf",
+        "行业研究及研报/人形机器人行业/人形机器人系列报告五：灵巧手：核心终端，机器人融入物理世界的接口_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 5461457,
+      "file": "reports/files/r-0b66d94ed992.pdf",
+      "pages": 68,
+      "title": "灵巧手：核心终端，机器人融入物理世界的接口",
+      "institution": "国联民生证券",
+      "date": null,
+      "categories": [
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "系统比较灵巧手自由度、驱动、传动与感知技术，围绕电机、丝杠、腱绳和传感器梳理产业链，讨论精细操作能力与规模化落地的关系。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "鸣志电器",
+        "德昌电机",
+        "汉威科技",
+        "灵心巧手",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-0b66d94ed992.png"
+    },
+    {
+      "id": "r-b00e5059ec8f",
+      "filename": "人形机器人信息整理框架5.8汇总(1).url",
+      "originalPaths": [
+        "行业研究及研报/人形机器人信息整理框架5.8汇总(1).url"
+      ],
+      "format": "URL",
+      "bytes": 115,
+      "url": "https://www.feishu.cn/sheets/Fxh7sfEMVhjvGytX664ciIqtnpc",
+      "title": "人形机器人信息整理框架5.8汇总(1)",
+      "institution": "出具机构未注明",
+      "date": null,
+      "categories": [
+        "人形"
+      ],
+      "summary": "原归档中的资料链接，尚未导入正文。点击可前往原资料，可能需要登录或访问权限。",
+      "companies": [],
+      "collections": []
+    },
+    {
+      "id": "r-d140f4131eae",
+      "filename": "【中国信通院】具身智能发展报告（2025年）【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/具身智能/【中国信通院】具身智能发展报告（2025年）【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 6676088,
+      "file": "reports/files/r-d140f4131eae.pdf",
+      "pages": 67,
+      "title": "具身智能发展报告（2025年）",
+      "institution": "中国信通院 · 清华大学电子工程系",
+      "date": "2026-01",
+      "categories": [
+        "AI",
+        "算法",
+        "数据",
+        "人形",
+        "四足",
+        "轮式",
+        "复合",
+        "协作臂"
+      ],
+      "summary": "从软硬协同、知行融合和虚实迁移三个方向观察具身智能，梳理移动类与操作类产品、多元应用场景，以及技术服务和基础设施构成的产业生态。",
+      "companies": [
+        "宇树",
+        "智平方",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "逐际动力",
+        "自变量",
+        "银河通用",
+        "汉威科技",
+        "灵心巧手",
+        "傅利叶",
+        "乐聚",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-d140f4131eae.png"
+    },
+    {
+      "id": "r-84c92640d6bb",
+      "filename": "触觉驱动具身智能发展新引擎_方斌.pdf",
+      "originalPaths": [
+        "行业研究及研报/具身智能/触觉驱动具身智能发展新引擎_方斌.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 5519244,
+      "file": "reports/files/r-84c92640d6bb.pdf",
+      "pages": 48,
+      "title": "触觉驱动具身智能发展新引擎",
+      "institution": "北京邮电大学 · 方斌",
+      "date": "2025-05-29",
+      "categories": [
+        "AI",
+        "零部件"
+      ],
+      "summary": "清华大学基础模型2025学术年会具身智能分论坛演讲资料，主题为触觉与具身智能。正文主要是图片页，目前按封面提炼主题，详细结论待进一步整理。",
+      "type": "学术演讲",
+      "note": "图片型演讲资料；当前简介依据封面，非全文结论摘要。",
+      "companies": [],
+      "collections": [],
+      "cover": "reports/covers/r-84c92640d6bb.png"
+    },
+    {
+      "id": "r-8301e5893d9b",
+      "filename": "东吴证券 - 机器人大模型.pdf",
+      "originalPaths": [
+        "行业研究及研报/具身智能/东吴证券 - 机器人大模型.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 5999126,
+      "file": "reports/files/r-8301e5893d9b.pdf",
+      "pages": 56,
+      "title": "我们距离真正的具身智能大模型还有多远？",
+      "institution": "东吴证券",
+      "date": "2025-08-09",
+      "categories": [
+        "AI",
+        "算法",
+        "数据",
+        "人形"
+      ],
+      "summary": "从模型架构、训练数据与推理能力分析机器人智能化，比较视觉语言动作模型、快慢脑架构与世界模型，并讨论真机数据和仿真训练的协同。",
+      "companies": [
+        "宇树",
+        "智平方",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "银河通用",
+        "奥比中光",
+        "英伟达"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-8301e5893d9b.png"
+    },
+    {
+      "id": "r-f41bf6965b42",
+      "filename": "运动-神经系统的动力学建模与控制_眭亚楠.pdf",
+      "originalPaths": [
+        "行业研究及研报/具身智能/运动-神经系统的动力学建模与控制_眭亚楠.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2102712,
+      "file": "reports/files/r-f41bf6965b42.pdf",
+      "pages": 22,
+      "title": "具身智能的自身模型：运动—神经系统的动力学建模与控制",
+      "institution": "清华大学 · 眭亚楠",
+      "date": "2025-05-29",
+      "categories": [
+        "算法",
+        "AI"
+      ],
+      "summary": "清华大学基础模型2025学术年会演讲资料，主题为运动—神经系统的动力学建模与控制。正文主要是图片页，当前简介依据封面主题整理。",
+      "type": "学术演讲",
+      "note": "图片型演讲资料；当前简介依据封面，非全文结论摘要。",
+      "companies": [],
+      "collections": [],
+      "cover": "reports/covers/r-f41bf6965b42.png"
+    },
+    {
+      "id": "r-9cf7a5931fcc",
+      "filename": "【开源证券】机械设备行业点评报告：灵巧手：特斯拉机器人迭代最重要的方向，量产落地的“最后一厘米”【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/灵巧手行业/【开源证券】机械设备行业点评报告：灵巧手：特斯拉机器人迭代最重要的方向，量产落地的“最后一厘米”【洞见研报DJyanbao.com】.pdf",
+        "行业研究及研报/灵巧手行业/【开源证券】机械设备行业点评报告：灵巧手：特斯拉机器人迭代最重要的方向，量产落地的“最后一厘米”【洞见研报DJyanbao.com】(1).pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2065786,
+      "file": "reports/files/r-9cf7a5931fcc.pdf",
+      "pages": 15,
+      "title": "灵巧手：量产落地的“最后一厘米”",
+      "institution": "开源证券",
+      "date": "2025-09-16",
+      "categories": [
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "围绕特斯拉灵巧手迭代，讨论微型电机外置、丝杠与腱绳传动、视触觉及轻量化，并分析感知反馈对机器人模型学习和精细操作的影响。",
+      "companies": [
+        "小米",
+        "特斯拉",
+        "智元",
+        "星动纪元",
+        "拓普集团",
+        "兆威机电"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-9cf7a5931fcc.png"
+    },
+    {
+      "id": "r-f1c034eae9bb",
+      "filename": "【华金证券】人形机器人系列报告（二）：人形机器人末端执行器，灵巧手产业化加速落地【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/灵巧手行业/【华金证券】人形机器人系列报告（二）：人形机器人末端执行器，灵巧手产业化加速落地【洞见研报DJyanbao.com】.pdf",
+        "行业研究及研报/灵巧手行业/【华金证券】人形机器人系列报告（二）：人形机器人末端执行器，灵巧手产业化加速落地【洞见研报DJyanbao.com】(1).pdf"
+      ],
+      "format": "PDF",
+      "bytes": 4753142,
+      "file": "reports/files/r-f1c034eae9bb.pdf",
+      "pages": 43,
+      "title": "人形机器人末端执行器：灵巧手产业化加速落地",
+      "institution": "华金证券",
+      "date": "2025-11-06",
+      "categories": [
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "拆解灵巧手的必要性、整机成本及技术演进，比较驱动、传动和感知模块，并介绍整机企业与专业零部件公司的产品布局。",
+      "companies": [
+        "宇树",
+        "小米",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "银河通用",
+        "兆威机电",
+        "灵心巧手",
+        "傅利叶"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-f1c034eae9bb.png"
+    },
+    {
+      "id": "r-9b12df043d32",
+      "filename": "【华创证券】——解析人形机器人灵巧手产业链：灵巧之手，如何成形？【洞见研报DJyanbao.com】(1).pdf",
+      "originalPaths": [
+        "行业研究及研报/灵巧手行业/【华创证券】——解析人形机器人灵巧手产业链：灵巧之手，如何成形？【洞见研报DJyanbao.com】(1).pdf",
+        "行业研究及研报/灵巧手行业/【华创证券】——解析人形机器人灵巧手产业链：灵巧之手，如何成形？【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2930668,
+      "file": "reports/files/r-9b12df043d32.pdf",
+      "pages": 34,
+      "title": "灵巧之手，如何成形？解析人形机器人灵巧手产业链",
+      "institution": "华创证券",
+      "date": "2026-03-09",
+      "categories": [
+        "灵巧手",
+        "算法",
+        "零部件"
+      ],
+      "summary": "从成本、可靠性和控制泛化三大瓶颈出发，比较不同灵巧手技术路线，并梳理核心器件、算法、中游集成厂商及科研、工业、家庭等应用。",
+      "companies": [
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "星动纪元",
+        "银河通用",
+        "绿的谐波",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "灵心巧手"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-9b12df043d32.png"
+    },
+    {
+      "id": "r-c80d6d17ed32",
+      "filename": "灵巧手：人形机器人核心执行末端_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/灵巧手行业/灵巧手：人形机器人核心执行末端_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1863852,
+      "file": "reports/files/r-c80d6d17ed32.pdf",
+      "pages": 41,
+      "title": "灵巧手：人形机器人核心执行末端",
+      "institution": "华西证券",
+      "date": "2025-05-27",
+      "categories": [
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "介绍灵巧手精细操作所需的驱动、传动、感知和控制系统，讨论自由度提升、微型丝杠与腱绳复合传动，以及触觉传感器等部件需求。",
+      "companies": [
+        "宇树",
+        "小米",
+        "特斯拉",
+        "智元",
+        "星动纪元",
+        "绿的谐波",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "灵心巧手",
+        "恒立液压"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-c80d6d17ed32.png"
+    },
+    {
+      "id": "r-dafb94b4a06f",
+      "filename": "微型电机行业专题报告灵巧手是Optimus Gen3最大边际变化，微型电机成为兵家必争之地_【发现报告 fxbaogao.com】(1).pdf",
+      "originalPaths": [
+        "行业研究及研报/灵巧手行业/微型电机行业专题报告灵巧手是Optimus Gen3最大边际变化，微型电机成为兵家必争之地_【发现报告 fxbaogao.com】(1).pdf",
+        "行业研究及研报/灵巧手行业/微型电机行业专题报告灵巧手是Optimus Gen3最大边际变化，微型电机成为兵家必争之地_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 3021300,
+      "file": "reports/files/r-dafb94b4a06f.pdf",
+      "pages": 29,
+      "title": "灵巧手是 Optimus Gen3 最大边际变化，微型电机成为竞争焦点",
+      "institution": "华鑫证券",
+      "date": "2026-02-14",
+      "categories": [
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "以灵巧手执行能力为切入点，讨论集成化趋势、空心杯与无框电机的技术特点及供应链壁垒，包含微型电机市场空间测算。",
+      "companies": [
+        "小米",
+        "华为",
+        "特斯拉",
+        "智元",
+        "鸣志电器",
+        "德昌电机",
+        "灵心巧手",
+        "汇川技术"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-dafb94b4a06f.png"
+    },
+    {
+      "id": "r-490a183d9502",
+      "filename": "汽车行业深度：特斯拉引领灵巧手技术升级，驱动、传动和感知方案迭代催生新投资机遇_【发现报告 fxbaogao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/灵巧手行业/汽车行业深度：特斯拉引领灵巧手技术升级，驱动、传动和感知方案迭代催生新投资机遇_【发现报告 fxbaogao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1963724,
+      "file": "reports/files/r-490a183d9502.pdf",
+      "pages": 37,
+      "title": "特斯拉引领灵巧手技术升级：驱动、传动和感知方案迭代",
+      "institution": "中泰证券",
+      "date": "2025-04-02",
+      "categories": [
+        "灵巧手",
+        "零部件"
+      ],
+      "summary": "复盘 Optimus 灵巧手在自由度、电机、传动和触觉方面的变化，比较减速器、腱绳与丝杠组合方案，梳理精密驱动和感知产业链。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "绿的谐波",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "恒立液压"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-490a183d9502.png"
+    },
+    {
+      "id": "r-50965e8bed10",
+      "filename": "中国信通院-人形机器人产业发展研究报告.pdf.coredownload.394992768.pdf",
+      "originalPaths": [
+        "行业研究及研报/人形机器人行业/中国信通院-人形机器人产业发展研究报告.pdf.coredownload.394992768.pdf",
+        "智平方/中国信通院-人形机器人产业发展研究报告.pdf.coredownload.394992768.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2538330,
+      "file": "reports/files/r-50965e8bed10.pdf",
+      "pages": 43,
+      "title": "人形机器人产业发展研究报告（2024年）",
+      "institution": "中国信通院泰尔系统实验室",
+      "date": "2024-12",
+      "categories": [
+        "人形",
+        "算法",
+        "零部件"
+      ],
+      "summary": "从人形机器人的内涵、核心技术和重点产品出发，研究产业布局、生产制造、社会服务与特种作业的需求差异，并提出产业发展路径。",
+      "companies": [
+        "宇树",
+        "小米",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "波士顿动力",
+        "星动纪元",
+        "傅利叶",
+        "英伟达"
+      ],
+      "collections": [
+        "智平方"
+      ],
+      "cover": "reports/covers/r-50965e8bed10.png"
+    },
+    {
+      "id": "r-2b9ef1ceb67b",
+      "filename": "人形机器人.url",
+      "originalPaths": [
+        "行业研究及研报/人形机器人行业/人形机器人.url"
+      ],
+      "format": "URL",
+      "bytes": 113,
+      "url": "https://www.feishu.cn/base/Dhctbb9uTaOywVsYFPycf5DLnSf",
+      "title": "人形机器人",
+      "institution": "出具机构未注明",
+      "date": null,
+      "categories": [
+        "人形"
+      ],
+      "summary": "原归档中的资料链接，尚未导入正文。点击可前往原资料，可能需要登录或访问权限。",
+      "companies": [],
+      "collections": []
+    },
+    {
+      "id": "r-ae57e26372ed",
+      "filename": "【浙商证券】行业深度：具身智能感知核心行业【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "行业研究及研报/人形机器人行业/【浙商证券】行业深度：具身智能感知核心行业【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 4246771,
+      "file": "reports/files/r-ae57e26372ed.pdf",
+      "pages": 28,
+      "title": "电子皮肤：具身智能感知核心行业",
+      "institution": "浙商证券",
+      "date": "2026-03-21",
+      "categories": [
+        "零部件",
+        "灵巧手"
+      ],
+      "summary": "介绍电子皮肤的结构与压阻、压容等技术路线，分析覆盖范围、多模态感知和规模化制造挑战，并梳理国内外企业及应用市场。",
+      "companies": [
+        "宇树",
+        "汉威科技"
+      ],
+      "collections": [],
+      "cover": "reports/covers/r-ae57e26372ed.png"
+    },
+    {
+      "id": "r-bd28e3a06631",
+      "filename": "智平方.url",
+      "originalPaths": [
+        "智平方/智平方.url"
+      ],
+      "format": "URL",
+      "bytes": 113,
+      "url": "https://www.feishu.cn/base/TvYCb13dvaPfWDseBw3cJTxOngh",
+      "title": "智平方",
+      "institution": "出具机构未注明",
+      "date": null,
+      "categories": [
+        "人形"
+      ],
+      "summary": "原归档中的资料链接，尚未导入正文。点击可前往原资料，可能需要登录或访问权限。",
+      "companies": [],
+      "collections": [
+        "智平方"
+      ]
+    },
+    {
+      "id": "r-5ccaffbc86ab",
+      "filename": "国金证券 - 智元.pdf",
+      "originalPaths": [
+        "智元/国金证券 - 智元.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 6435258,
+      "file": "reports/files/r-5ccaffbc86ab.pdf",
+      "pages": 35,
+      "title": "智元机器人：产品矩阵、全栈算法与生态布局研究",
+      "institution": "国金证券",
+      "date": null,
+      "categories": [
+        "人形",
+        "轮式",
+        "四足",
+        "AI",
+        "数据"
+      ],
+      "summary": "梳理智元远征、灵犀、精灵等产品与场景，研究品牌、设计、算法及合作伙伴协同模式，重点介绍数据集、大模型、渠道和供应链生态。",
+      "note": "展示标题依据正文整理；发布日期未从文件中确认。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "Figure AI",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "星动纪元",
+        "逐际动力",
+        "银河通用",
+        "三花智控",
+        "奥比中光",
+        "傅利叶",
+        "乐聚",
+        "英伟达"
+      ],
+      "collections": [
+        "智元"
+      ],
+      "cover": "reports/covers/r-5ccaffbc86ab.png"
+    },
+    {
+      "id": "r-c3274e80f98d",
+      "filename": "2026-03-28_浙商证券_机械设备_人形机器人行业深度报告：智元：具身智能全栈龙头，量产进度与模型能力领先.pdf",
+      "originalPaths": [
+        "智元/2026-03-28_浙商证券_机械设备_人形机器人行业深度报告：智元：具身智能全栈龙头，量产进度与模型能力领先.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 2754400,
+      "file": "reports/files/r-c3274e80f98d.pdf",
+      "pages": 35,
+      "title": "智元：具身智能全栈龙头，量产进度与模型能力领先",
+      "institution": "浙商证券",
+      "date": "2026-03-28",
+      "categories": [
+        "人形",
+        "轮式",
+        "四足",
+        "AI",
+        "算法",
+        "数据",
+        "零部件"
+      ],
+      "summary": "围绕智元全产品、全场景布局，分析自研整机、零部件、具身模型与数采工厂，梳理产品家族、量产进展及上下游合作生态。",
+      "companies": [
+        "宇树",
+        "小米",
+        "华为",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "汉威科技",
+        "汇川技术",
+        "奥比中光",
+        "恒立液压"
+      ],
+      "collections": [
+        "智元"
+      ],
+      "cover": "reports/covers/r-c3274e80f98d.png"
+    },
+    {
+      "id": "r-957583f3043c",
+      "filename": "【西南证券】机器人行业周报：逐际动力推出具身机器人TRON2，实现一机三态【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "逐际动力/【西南证券】机器人行业周报：逐际动力推出具身机器人TRON2，实现一机三态【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1322419,
+      "file": "reports/files/r-957583f3043c.pdf",
+      "pages": 10,
+      "title": "逐际动力推出具身机器人 TRON 2，实现一机三态",
+      "institution": "西南证券",
+      "date": "2025-12-21",
+      "categories": [
+        "复合",
+        "轮式",
+        "人形",
+        "四足"
+      ],
+      "summary": "介绍 TRON 2 模块化本体在双臂、双足和双轮足间切换的设计，并跟踪宇树应用商店、银河通用融资及家庭机器人企业动态。",
+      "companies": [
+        "宇树",
+        "特斯拉",
+        "智元",
+        "优必选",
+        "逐际动力",
+        "银河通用",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "兆威机电",
+        "鸣志电器",
+        "汉威科技",
+        "汇川技术",
+        "恒立液压"
+      ],
+      "collections": [
+        "逐际动力"
+      ],
+      "cover": "reports/covers/r-957583f3043c.png"
+    },
+    {
+      "id": "r-7a6b984868ea",
+      "filename": "【国泰海通】字节领投自变量 10 亿元 A++轮融资，智元拆分灵巧手业务成立临界点【洞见研报DJyanbao.com】.pdf",
+      "originalPaths": [
+        "自变量/【国泰海通】字节领投自变量 10 亿元 A++轮融资，智元拆分灵巧手业务成立临界点【洞见研报DJyanbao.com】.pdf"
+      ],
+      "format": "PDF",
+      "bytes": 1429888,
+      "file": "reports/files/r-7a6b984868ea.pdf",
+      "pages": 13,
+      "title": "字节领投自变量10亿元融资，智元拆分灵巧手业务",
+      "institution": "国泰海通",
+      "date": "2026-01-20",
+      "categories": [
+        "AI",
+        "数据",
+        "灵巧手",
+        "人形"
+      ],
+      "summary": "记录自变量融资与智元灵巧手业务拆分，汇集模型开源、数采终端、机器人应用及资本动态，观察具身智能产业链的近期变化。",
+      "companies": [
+        "小米",
+        "特斯拉",
+        "智元",
+        "小鹏",
+        "优必选",
+        "星动纪元",
+        "逐际动力",
+        "自变量",
+        "绿的谐波",
+        "三花智控",
+        "拓普集团",
+        "奥比中光",
+        "恒立液压",
+        "英伟达"
+      ],
+      "collections": [
+        "自变量"
+      ],
+      "cover": "reports/covers/r-7a6b984868ea.png"
+    }
+  ]
+}

@@ -1,0 +1,3182 @@
+{
+  "source": {
+    "title": "2026深圳市具身智能机器人产业图谱",
+    "pages": [
+      4,
+      5
+    ],
+    "scope": "深圳产业图谱收录企业及机构（含分支机构）"
+  },
+  "groups": [
+    {
+      "id": "c1",
+      "stage": "上游",
+      "category": "模型",
+      "segment": "模型",
+      "names": [
+        "腾讯",
+        "优必选",
+        "越疆科技",
+        "自变量",
+        "智平方",
+        "跨维智能",
+        "星尘智能",
+        "鹏城实验室",
+        "商汤",
+        "帕西尼",
+        "银河通用",
+        "云天励飞",
+        "华为",
+        "科大讯飞",
+        "若愚科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c2",
+      "stage": "上游",
+      "category": "芯片",
+      "segment": "芯片",
+      "names": [
+        "中兴",
+        "地瓜机器人",
+        "必易微电子",
+        "云天励飞",
+        "华为海思",
+        "比亚迪半导体"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c3",
+      "stage": "上游",
+      "category": "运控算法",
+      "segment": "运控算法",
+      "names": [
+        "优必选",
+        "智平方",
+        "跨维智能",
+        "星尘智能",
+        "逐际动力",
+        "众擎机器人",
+        "鹏行智能",
+        "数字华夏",
+        "帕西尼",
+        "银河通用",
+        "乐聚智能",
+        "戴盟机器人",
+        "大象机器人"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c4",
+      "stage": "上游",
+      "category": "数据采集",
+      "segment": "遥操作设备",
+      "names": [
+        "创维",
+        "PICO"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c5",
+      "stage": "上游",
+      "category": "数据采集",
+      "segment": "UMI 设备",
+      "names": [
+        "奥比中光",
+        "自变量",
+        "卧安机器人",
+        "鹿明机器人",
+        "灵初智能",
+        "艾欧智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c6",
+      "stage": "上游",
+      "category": "数据采集",
+      "segment": "仿真与数据资产",
+      "names": [
+        "跨维智能",
+        "枢途科技",
+        "生境科技",
+        "银河通用",
+        "深信科创",
+        "极数迭代",
+        "数创弧光"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c7",
+      "stage": "上游",
+      "category": "数据采集",
+      "segment": "EGO 设备",
+      "names": [
+        "创维",
+        "奥比中光",
+        "自变量",
+        "忆生科技",
+        "无界智航",
+        "鹿明机器人",
+        "灵初智能",
+        "艾欧智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c8",
+      "stage": "上游",
+      "category": "数据采集",
+      "segment": "动捕设备",
+      "names": [
+        "瑞立视",
+        "大寰机器人",
+        "诺亦腾",
+        "艾欧智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c9",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "视觉",
+      "names": [
+        "奥比中光",
+        "安思疆",
+        "阜时科技",
+        "欢创科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c10",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "触觉",
+      "names": [
+        "越疆科技",
+        "松果体",
+        "帕西尼",
+        "力感科技",
+        "墨现科技",
+        "途见科技",
+        "纽迪瑞",
+        "钛深科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c11",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "惯导 IMU",
+      "names": [
+        "子午天地",
+        "云创传感",
+        "瑞芬科技",
+        "广陵达"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c12",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "语音",
+      "names": [
+        "声联网",
+        "海岸语音",
+        "声希科技",
+        "壹秘科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c13",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "力 / 力矩",
+      "names": [
+        "精量电子",
+        "科普瑞",
+        "华力创",
+        "鑫精诚",
+        "力准传感",
+        "昊华",
+        "耐特恩",
+        "海伯森",
+        "纽迪瑞",
+        "钛深科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c14",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "激光雷达",
+      "names": [
+        "速腾聚创",
+        "玩智商",
+        "览沃科技",
+        "阜时科技",
+        "砝石激光",
+        "镭神智能",
+        "万集科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c15",
+      "stage": "上游",
+      "category": "传感器",
+      "segment": "毫米波雷达",
+      "names": [
+        "云创传感",
+        "豪恩汽电",
+        "安智杰",
+        "承泰科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c16",
+      "stage": "上游",
+      "category": "灵巧手",
+      "segment": "灵巧手",
+      "names": [
+        "速腾聚创",
+        "睿研智能",
+        "源升智能",
+        "大寰机器人",
+        "帕西尼",
+        "强脑智能",
+        "因时机器人",
+        "傲意智能",
+        "灵心巧匠",
+        "思灵机器人",
+        "兆威机电",
+        "戴盟机器人",
+        "舞肌科技",
+        "增光智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c17",
+      "stage": "上游",
+      "category": "空心杯电机",
+      "segment": "空心杯电机",
+      "names": [
+        "雷赛智能",
+        "鸣志电器",
+        "兆威机电",
+        "拓邦股份",
+        "唯川科技",
+        "金源机电",
+        "五颗星马达",
+        "鑫宝达",
+        "双环全新",
+        "万至达电机"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c18",
+      "stage": "上游",
+      "category": "传动装置",
+      "segment": "丝杆",
+      "names": [
+        "诺仕机器人",
+        "兆威机电",
+        "誊展精密"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c19",
+      "stage": "上游",
+      "category": "传动装置",
+      "segment": "绳腱",
+      "names": [
+        "忆海原识",
+        "骏鼎达"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c20",
+      "stage": "上游",
+      "category": "传动装置",
+      "segment": "齿轮 / 蜗轮蜗杆",
+      "names": [
+        "兆威机电",
+        "陶世智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c21",
+      "stage": "上游",
+      "category": "传动装置",
+      "segment": "微型减速器",
+      "names": [
+        "兆威机电",
+        "陶世智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c22",
+      "stage": "上游",
+      "category": "编码器",
+      "segment": "编码器",
+      "names": [
+        "睿研智能",
+        "步科电气",
+        "汇川科技",
+        "兆威机电",
+        "零差云控",
+        "原相科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c23",
+      "stage": "上游",
+      "category": "微型轴承",
+      "segment": "微型轴承",
+      "names": [
+        "大华轴承"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c24",
+      "stage": "上游",
+      "category": "旋转关节模组",
+      "segment": "旋转关节模组",
+      "names": [
+        "睿研智能",
+        "泰科机器人",
+        "同川精密",
+        "零差云控",
+        "宇智动力"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c25",
+      "stage": "上游",
+      "category": "减速器",
+      "segment": "谐波",
+      "names": [
+        "科盟创新",
+        "西格传动",
+        "同川精密",
+        "德镁精密",
+        "杉川谐波"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c26",
+      "stage": "上游",
+      "category": "减速器",
+      "segment": "行星",
+      "names": [
+        "罗斯特"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c27",
+      "stage": "上游",
+      "category": "减速器",
+      "segment": "RV",
+      "names": [
+        "宇智动力"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c28",
+      "stage": "上游",
+      "category": "减速器",
+      "segment": "其他",
+      "names": [
+        "陶世智能",
+        "爱磁科技",
+        "誊展精密"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c29",
+      "stage": "上游",
+      "category": "伺服驱动",
+      "segment": "伺服驱动",
+      "names": [
+        "英威腾",
+        "峰岹科技",
+        "雷赛智能",
+        "固高科技",
+        "高创传动",
+        "泰科机器人",
+        "研控自动化",
+        "汇川科技",
+        "泰格运控",
+        "拓邦股份",
+        "华成工控",
+        "横川机器人",
+        "德昌电机"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c30",
+      "stage": "上游",
+      "category": "轴承",
+      "segment": "轴承",
+      "names": [
+        "大华轴承"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c31",
+      "stage": "上游",
+      "category": "力矩电机",
+      "segment": "力矩电机",
+      "names": [
+        "雷赛智能",
+        "大族电机",
+        "小象电动",
+        "泰科机器人",
+        "步科电气",
+        "正德智控",
+        "汇川科技",
+        "零差云控"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c32",
+      "stage": "上游",
+      "category": "丝杠",
+      "segment": "行星滚柱",
+      "names": [
+        "威远精密",
+        "诺仕机器人",
+        "汇川科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c33",
+      "stage": "上游",
+      "category": "丝杠",
+      "segment": "滚珠",
+      "names": [
+        "威远精密",
+        "银盛威",
+        "汇川科技",
+        "牧气精密",
+        "威洛博",
+        "誊展精密"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c34",
+      "stage": "上游",
+      "category": "丝杠",
+      "segment": "梯形螺纹",
+      "names": [
+        "威远精密"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c35",
+      "stage": "上游",
+      "category": "线性关节模组",
+      "segment": "线性关节模组",
+      "names": [
+        "众擎机器人",
+        "泰科机器人"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c36",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "高承载耐磨材料 · 低合金钢",
+      "names": [
+        "中碳"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c37",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "高承载耐磨材料 · 球墨铸铁",
+      "names": [],
+      "page": 4
+    },
+    {
+      "id": "c38",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "高承载耐磨材料 · CF/PEEK",
+      "names": [
+        "沃特股份"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c39",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "高承载耐磨材料 · 氮化硅陶瓷",
+      "names": [
+        "深圳昊瑞",
+        "三鼎晟"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c40",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "高功率密度磁性材料 · 钕铁硼",
+      "names": [
+        "骏材磁应用",
+        "雷恩创智",
+        "海美格",
+        "宇恒磁业"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c41",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "高功率密度磁性材料 · 钐铁氮",
+      "names": [
+        "骏材磁应用"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c42",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "轻量化结构材料 · 镁合金",
+      "names": [
+        "华晔美",
+        "深圳新星",
+        "轻镁科技",
+        "中镁材料",
+        "喜德盛"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c43",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "轻量化结构材料 · 铝合金",
+      "names": [
+        "阿尔泰克",
+        "深圳新星",
+        "华加日",
+        "深美特铝",
+        "迈特李"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c44",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "轻量化结构材料 · 钛合金",
+      "names": [
+        "深圳新星"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c45",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "轻量化结构材料 · 复材碳纤维",
+      "names": [
+        "思特瑞",
+        "光大同创"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c46",
+      "stage": "上游",
+      "category": "材料",
+      "segment": "轻量化结构材料 · TPU",
+      "names": [
+        "塑源实业"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c47",
+      "stage": "上游",
+      "category": "电池",
+      "segment": "电池",
+      "names": [
+        "德赛电池",
+        "欣旺达",
+        "振邦智能",
+        "弗迪",
+        "比克电池"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c48",
+      "stage": "上游",
+      "category": "躯干骨架",
+      "segment": "机加工",
+      "names": [
+        "乐普兰斯",
+        "科瑞技术",
+        "长盈精密",
+        "银宝山新"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c49",
+      "stage": "上游",
+      "category": "线束线缆",
+      "segment": "线束线缆",
+      "names": [
+        "丰本电子",
+        "艾森伯",
+        "国威通",
+        "明谋科技",
+        "康瑞电子"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c50",
+      "stage": "上游",
+      "category": "通信模组",
+      "segment": "电通信",
+      "names": [
+        "广和通",
+        "艾灵网络",
+        "有方科技",
+        "美格智能"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c51",
+      "stage": "上游",
+      "category": "通信模组",
+      "segment": "光通信",
+      "names": [
+        "易飞扬",
+        "华为",
+        "昂纳科技"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c52",
+      "stage": "上游",
+      "category": "操作系统",
+      "segment": "操作系统",
+      "names": [
+        "深开鸿"
+      ],
+      "page": 4
+    },
+    {
+      "id": "c53",
+      "stage": "中游",
+      "category": "人形",
+      "segment": "人形",
+      "names": [
+        "优必选",
+        "越疆科技",
+        "自变量",
+        "智平方",
+        "逐际动力",
+        "星尘智能",
+        "跨维智能",
+        "众擎机器人",
+        "数字华夏",
+        "帕西尼",
+        "银河通用",
+        "乐聚智能",
+        "戴盟机器人",
+        "鹿明机器人",
+        "荣耀",
+        "大象机器人"
+      ],
+      "page": 5
+    },
+    {
+      "id": "c54",
+      "stage": "中游",
+      "category": "轮式",
+      "segment": "轮式",
+      "names": [
+        "普渡科技",
+        "云鲸智能",
+        "南极星",
+        "优艾智合",
+        "神州云海",
+        "博铭维",
+        "作为科技",
+        "元鼎智能",
+        "海柔创新",
+        "云洁科技",
+        "城市之光"
+      ],
+      "page": 5
+    },
+    {
+      "id": "c55",
+      "stage": "中游",
+      "category": "四足",
+      "segment": "四足",
+      "names": [
+        "越疆科技",
+        "众擎机器人",
+        "智璟科技"
+      ],
+      "page": 5
+    },
+    {
+      "id": "c56",
+      "stage": "中游",
+      "category": "履带式",
+      "segment": "履带式",
+      "names": [
+        "优艾智合",
+        "博铭维",
+        "汉阳科技",
+        "中煤科工"
+      ],
+      "page": 5
+    },
+    {
+      "id": "c57",
+      "stage": "中游",
+      "category": "复合型",
+      "segment": "复合型",
+      "names": [
+        "越疆科技",
+        "优艾智合",
+        "灵锶智能",
+        "创想未来",
+        "卧安机器人",
+        "欧铠智能",
+        "阿米嘎嘎",
+        "汇纵智能",
+        "立昂机器人"
+      ],
+      "page": 5
+    },
+    {
+      "id": "c58",
+      "stage": "中游",
+      "category": "协作臂",
+      "segment": "协作臂",
+      "names": [
+        "越疆科技",
+        "康诺思腾",
+        "精锋科技",
+        "华沿机器人",
+        "天机智能",
+        "大象机器人"
+      ],
+      "page": 5
+    },
+    {
+      "id": "c59",
+      "stage": "中游",
+      "category": "仿生型",
+      "segment": "仿生型",
+      "names": [
+        "朝闻道",
+        "肯綮科技",
+        "迈步机器人",
+        "鳍源科技",
+        "英汉思动力",
+        "派拓艺"
+      ],
+      "page": 5
+    }
+  ],
+  "firms": [
+    {
+      "id": "m1",
+      "name": "腾讯",
+      "categories": [
+        "c1"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m2",
+      "name": "优必选",
+      "categories": [
+        "c1",
+        "c3",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m3",
+      "name": "越疆科技",
+      "categories": [
+        "c1",
+        "c10",
+        "c53",
+        "c55",
+        "c57",
+        "c58"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m4",
+      "name": "自变量",
+      "categories": [
+        "c1",
+        "c5",
+        "c7",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m5",
+      "name": "智平方",
+      "categories": [
+        "c1",
+        "c3",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m6",
+      "name": "跨维智能",
+      "categories": [
+        "c1",
+        "c3",
+        "c6",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m7",
+      "name": "星尘智能",
+      "categories": [
+        "c1",
+        "c3",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m8",
+      "name": "鹏城实验室",
+      "categories": [
+        "c1"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m9",
+      "name": "商汤",
+      "categories": [
+        "c1"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m10",
+      "name": "帕西尼",
+      "categories": [
+        "c1",
+        "c3",
+        "c10",
+        "c16",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": true
+    },
+    {
+      "id": "m11",
+      "name": "银河通用",
+      "categories": [
+        "c1",
+        "c3",
+        "c6",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": true
+    },
+    {
+      "id": "m12",
+      "name": "云天励飞",
+      "categories": [
+        "c1",
+        "c2"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m13",
+      "name": "华为",
+      "categories": [
+        "c1",
+        "c51"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m14",
+      "name": "科大讯飞",
+      "categories": [
+        "c1"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m15",
+      "name": "若愚科技",
+      "categories": [
+        "c1"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m16",
+      "name": "中兴",
+      "categories": [
+        "c2"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m17",
+      "name": "地瓜机器人",
+      "categories": [
+        "c2"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m18",
+      "name": "必易微电子",
+      "categories": [
+        "c2"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m19",
+      "name": "华为海思",
+      "categories": [
+        "c2"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m20",
+      "name": "比亚迪半导体",
+      "categories": [
+        "c2"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m21",
+      "name": "逐际动力",
+      "categories": [
+        "c3",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m22",
+      "name": "众擎机器人",
+      "categories": [
+        "c3",
+        "c35",
+        "c53",
+        "c55"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m23",
+      "name": "鹏行智能",
+      "categories": [
+        "c3"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m24",
+      "name": "数字华夏",
+      "categories": [
+        "c3",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m25",
+      "name": "乐聚智能",
+      "categories": [
+        "c3",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m26",
+      "name": "戴盟机器人",
+      "categories": [
+        "c3",
+        "c16",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m27",
+      "name": "大象机器人",
+      "categories": [
+        "c3",
+        "c53",
+        "c58"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m28",
+      "name": "创维",
+      "categories": [
+        "c4",
+        "c7"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m29",
+      "name": "PICO",
+      "categories": [
+        "c4"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m30",
+      "name": "奥比中光",
+      "categories": [
+        "c5",
+        "c7",
+        "c9"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m31",
+      "name": "卧安机器人",
+      "categories": [
+        "c5",
+        "c57"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m32",
+      "name": "鹿明机器人",
+      "categories": [
+        "c5",
+        "c7",
+        "c53"
+      ],
+      "pages": [
+        4,
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m33",
+      "name": "灵初智能",
+      "categories": [
+        "c5",
+        "c7"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m34",
+      "name": "艾欧智能",
+      "categories": [
+        "c5",
+        "c7",
+        "c8"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m35",
+      "name": "枢途科技",
+      "categories": [
+        "c6"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m36",
+      "name": "生境科技",
+      "categories": [
+        "c6"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m37",
+      "name": "深信科创",
+      "categories": [
+        "c6"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m38",
+      "name": "极数迭代",
+      "categories": [
+        "c6"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m39",
+      "name": "数创弧光",
+      "categories": [
+        "c6"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m40",
+      "name": "忆生科技",
+      "categories": [
+        "c7"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m41",
+      "name": "无界智航",
+      "categories": [
+        "c7"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m42",
+      "name": "瑞立视",
+      "categories": [
+        "c8"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m43",
+      "name": "大寰机器人",
+      "categories": [
+        "c8",
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m44",
+      "name": "诺亦腾",
+      "categories": [
+        "c8"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m45",
+      "name": "安思疆",
+      "categories": [
+        "c9"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m46",
+      "name": "阜时科技",
+      "categories": [
+        "c9",
+        "c14"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m47",
+      "name": "欢创科技",
+      "categories": [
+        "c9"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m48",
+      "name": "松果体",
+      "categories": [
+        "c10"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m49",
+      "name": "力感科技",
+      "categories": [
+        "c10"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m50",
+      "name": "墨现科技",
+      "categories": [
+        "c10"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m51",
+      "name": "途见科技",
+      "categories": [
+        "c10"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m52",
+      "name": "纽迪瑞",
+      "categories": [
+        "c10",
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m53",
+      "name": "钛深科技",
+      "categories": [
+        "c10",
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m54",
+      "name": "子午天地",
+      "categories": [
+        "c11"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m55",
+      "name": "云创传感",
+      "categories": [
+        "c11",
+        "c15"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m56",
+      "name": "瑞芬科技",
+      "categories": [
+        "c11"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m57",
+      "name": "广陵达",
+      "categories": [
+        "c11"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m58",
+      "name": "声联网",
+      "categories": [
+        "c12"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m59",
+      "name": "海岸语音",
+      "categories": [
+        "c12"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m60",
+      "name": "声希科技",
+      "categories": [
+        "c12"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m61",
+      "name": "壹秘科技",
+      "categories": [
+        "c12"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m62",
+      "name": "精量电子",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m63",
+      "name": "科普瑞",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m64",
+      "name": "华力创",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m65",
+      "name": "鑫精诚",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m66",
+      "name": "力准传感",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m67",
+      "name": "昊华",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m68",
+      "name": "耐特恩",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m69",
+      "name": "海伯森",
+      "categories": [
+        "c13"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m70",
+      "name": "速腾聚创",
+      "categories": [
+        "c14",
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m71",
+      "name": "玩智商",
+      "categories": [
+        "c14"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m72",
+      "name": "览沃科技",
+      "categories": [
+        "c14"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m73",
+      "name": "砝石激光",
+      "categories": [
+        "c14"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m74",
+      "name": "镭神智能",
+      "categories": [
+        "c14"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m75",
+      "name": "万集科技",
+      "categories": [
+        "c14"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m76",
+      "name": "豪恩汽电",
+      "categories": [
+        "c15"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m77",
+      "name": "安智杰",
+      "categories": [
+        "c15"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m78",
+      "name": "承泰科技",
+      "categories": [
+        "c15"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m79",
+      "name": "睿研智能",
+      "categories": [
+        "c16",
+        "c22",
+        "c24"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m80",
+      "name": "源升智能",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m81",
+      "name": "强脑智能",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m82",
+      "name": "因时机器人",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m83",
+      "name": "傲意智能",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m84",
+      "name": "灵心巧匠",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m85",
+      "name": "思灵机器人",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m86",
+      "name": "兆威机电",
+      "categories": [
+        "c16",
+        "c17",
+        "c18",
+        "c20",
+        "c21",
+        "c22"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m87",
+      "name": "舞肌科技",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m88",
+      "name": "增光智能",
+      "categories": [
+        "c16"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m89",
+      "name": "雷赛智能",
+      "categories": [
+        "c17",
+        "c29",
+        "c31"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m90",
+      "name": "鸣志电器",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m91",
+      "name": "拓邦股份",
+      "categories": [
+        "c17",
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m92",
+      "name": "唯川科技",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m93",
+      "name": "金源机电",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m94",
+      "name": "五颗星马达",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m95",
+      "name": "鑫宝达",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m96",
+      "name": "双环全新",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m97",
+      "name": "万至达电机",
+      "categories": [
+        "c17"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m98",
+      "name": "诺仕机器人",
+      "categories": [
+        "c18",
+        "c32"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m99",
+      "name": "誊展精密",
+      "categories": [
+        "c18",
+        "c28",
+        "c33"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m100",
+      "name": "忆海原识",
+      "categories": [
+        "c19"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m101",
+      "name": "骏鼎达",
+      "categories": [
+        "c19"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m102",
+      "name": "陶世智能",
+      "categories": [
+        "c20",
+        "c21",
+        "c28"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m103",
+      "name": "步科电气",
+      "categories": [
+        "c22",
+        "c31"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m104",
+      "name": "汇川科技",
+      "categories": [
+        "c22",
+        "c29",
+        "c31",
+        "c32",
+        "c33"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m105",
+      "name": "零差云控",
+      "categories": [
+        "c22",
+        "c24",
+        "c31"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m106",
+      "name": "原相科技",
+      "categories": [
+        "c22"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m107",
+      "name": "大华轴承",
+      "categories": [
+        "c23",
+        "c30"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m108",
+      "name": "泰科机器人",
+      "categories": [
+        "c24",
+        "c29",
+        "c31",
+        "c35"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m109",
+      "name": "同川精密",
+      "categories": [
+        "c24",
+        "c25"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m110",
+      "name": "宇智动力",
+      "categories": [
+        "c24",
+        "c27"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m111",
+      "name": "科盟创新",
+      "categories": [
+        "c25"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m112",
+      "name": "西格传动",
+      "categories": [
+        "c25"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m113",
+      "name": "德镁精密",
+      "categories": [
+        "c25"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m114",
+      "name": "杉川谐波",
+      "categories": [
+        "c25"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m115",
+      "name": "罗斯特",
+      "categories": [
+        "c26"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m116",
+      "name": "爱磁科技",
+      "categories": [
+        "c28"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m117",
+      "name": "英威腾",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m118",
+      "name": "峰岹科技",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m119",
+      "name": "固高科技",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m120",
+      "name": "高创传动",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m121",
+      "name": "研控自动化",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m122",
+      "name": "泰格运控",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m123",
+      "name": "华成工控",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m124",
+      "name": "横川机器人",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m125",
+      "name": "德昌电机",
+      "categories": [
+        "c29"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m126",
+      "name": "大族电机",
+      "categories": [
+        "c31"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m127",
+      "name": "小象电动",
+      "categories": [
+        "c31"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m128",
+      "name": "正德智控",
+      "categories": [
+        "c31"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m129",
+      "name": "威远精密",
+      "categories": [
+        "c32",
+        "c33",
+        "c34"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m130",
+      "name": "银盛威",
+      "categories": [
+        "c33"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m131",
+      "name": "牧气精密",
+      "categories": [
+        "c33"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m132",
+      "name": "威洛博",
+      "categories": [
+        "c33"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m133",
+      "name": "中碳",
+      "categories": [
+        "c36"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m134",
+      "name": "沃特股份",
+      "categories": [
+        "c38"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m135",
+      "name": "深圳昊瑞",
+      "categories": [
+        "c39"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m136",
+      "name": "三鼎晟",
+      "categories": [
+        "c39"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m137",
+      "name": "骏材磁应用",
+      "categories": [
+        "c40",
+        "c41"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m138",
+      "name": "雷恩创智",
+      "categories": [
+        "c40"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m139",
+      "name": "海美格",
+      "categories": [
+        "c40"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m140",
+      "name": "宇恒磁业",
+      "categories": [
+        "c40"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m141",
+      "name": "华晔美",
+      "categories": [
+        "c42"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m142",
+      "name": "深圳新星",
+      "categories": [
+        "c42",
+        "c43",
+        "c44"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m143",
+      "name": "轻镁科技",
+      "categories": [
+        "c42"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m144",
+      "name": "中镁材料",
+      "categories": [
+        "c42"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m145",
+      "name": "喜德盛",
+      "categories": [
+        "c42"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m146",
+      "name": "阿尔泰克",
+      "categories": [
+        "c43"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m147",
+      "name": "华加日",
+      "categories": [
+        "c43"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m148",
+      "name": "深美特铝",
+      "categories": [
+        "c43"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m149",
+      "name": "迈特李",
+      "categories": [
+        "c43"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m150",
+      "name": "思特瑞",
+      "categories": [
+        "c45"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m151",
+      "name": "光大同创",
+      "categories": [
+        "c45"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m152",
+      "name": "塑源实业",
+      "categories": [
+        "c46"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m153",
+      "name": "德赛电池",
+      "categories": [
+        "c47"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m154",
+      "name": "欣旺达",
+      "categories": [
+        "c47"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m155",
+      "name": "振邦智能",
+      "categories": [
+        "c47"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m156",
+      "name": "弗迪",
+      "categories": [
+        "c47"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m157",
+      "name": "比克电池",
+      "categories": [
+        "c47"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m158",
+      "name": "乐普兰斯",
+      "categories": [
+        "c48"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m159",
+      "name": "科瑞技术",
+      "categories": [
+        "c48"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m160",
+      "name": "长盈精密",
+      "categories": [
+        "c48"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m161",
+      "name": "银宝山新",
+      "categories": [
+        "c48"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m162",
+      "name": "丰本电子",
+      "categories": [
+        "c49"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m163",
+      "name": "艾森伯",
+      "categories": [
+        "c49"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m164",
+      "name": "国威通",
+      "categories": [
+        "c49"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m165",
+      "name": "明谋科技",
+      "categories": [
+        "c49"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m166",
+      "name": "康瑞电子",
+      "categories": [
+        "c49"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": true
+    },
+    {
+      "id": "m167",
+      "name": "广和通",
+      "categories": [
+        "c50"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m168",
+      "name": "艾灵网络",
+      "categories": [
+        "c50"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m169",
+      "name": "有方科技",
+      "categories": [
+        "c50"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m170",
+      "name": "美格智能",
+      "categories": [
+        "c50"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m171",
+      "name": "易飞扬",
+      "categories": [
+        "c51"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m172",
+      "name": "昂纳科技",
+      "categories": [
+        "c51"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m173",
+      "name": "深开鸿",
+      "categories": [
+        "c52"
+      ],
+      "pages": [
+        4
+      ],
+      "branch": false
+    },
+    {
+      "id": "m174",
+      "name": "荣耀",
+      "categories": [
+        "c53"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m175",
+      "name": "普渡科技",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m176",
+      "name": "云鲸智能",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m177",
+      "name": "南极星",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m178",
+      "name": "优艾智合",
+      "categories": [
+        "c54",
+        "c56",
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m179",
+      "name": "神州云海",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m180",
+      "name": "博铭维",
+      "categories": [
+        "c54",
+        "c56"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m181",
+      "name": "作为科技",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m182",
+      "name": "元鼎智能",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m183",
+      "name": "海柔创新",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m184",
+      "name": "云洁科技",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m185",
+      "name": "城市之光",
+      "categories": [
+        "c54"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m186",
+      "name": "智璟科技",
+      "categories": [
+        "c55"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m187",
+      "name": "汉阳科技",
+      "categories": [
+        "c56"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": true
+    },
+    {
+      "id": "m188",
+      "name": "中煤科工",
+      "categories": [
+        "c56"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m189",
+      "name": "灵锶智能",
+      "categories": [
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m190",
+      "name": "创想未来",
+      "categories": [
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m191",
+      "name": "欧铠智能",
+      "categories": [
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m192",
+      "name": "阿米嘎嘎",
+      "categories": [
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m193",
+      "name": "汇纵智能",
+      "categories": [
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m194",
+      "name": "立昂机器人",
+      "categories": [
+        "c57"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m195",
+      "name": "康诺思腾",
+      "categories": [
+        "c58"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m196",
+      "name": "精锋科技",
+      "categories": [
+        "c58"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m197",
+      "name": "华沿机器人",
+      "categories": [
+        "c58"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m198",
+      "name": "天机智能",
+      "categories": [
+        "c58"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": true
+    },
+    {
+      "id": "m199",
+      "name": "朝闻道",
+      "categories": [
+        "c59"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m200",
+      "name": "肯綮科技",
+      "categories": [
+        "c59"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m201",
+      "name": "迈步机器人",
+      "categories": [
+        "c59"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m202",
+      "name": "鳍源科技",
+      "categories": [
+        "c59"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m203",
+      "name": "英汉思动力",
+      "categories": [
+        "c59"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    },
+    {
+      "id": "m204",
+      "name": "派拓艺",
+      "categories": [
+        "c59"
+      ],
+      "pages": [
+        5
+      ],
+      "branch": false
+    }
+  ]
+}
